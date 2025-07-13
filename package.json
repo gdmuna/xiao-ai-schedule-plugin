@@ -1,0 +1,29 @@
+{
+    "name": "xiao-ai-schedule-plugin",
+    "version": "1.0.0",
+    "description": "小爱课程表导入插件（适配广东医科大学）",
+    "keywords": [
+        "xiaomi",
+        "ai",
+        "schedule",
+        "plugin"
+    ],
+    "license": "GPL-3.0-only",
+    "author": {
+        "name": "Seele.Clover",
+        "email": "37256067+seeleclover@users.noreply.github.com",
+        "url": "https://github.com/seeleclover"
+    },
+    "homepage": "https://github.com/gdmuna/xiao-ai-schedule-plugin",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gdmuna/xiao-ai-schedule-plugin.git"
+    },
+    "scripts": {
+        "prettier": "prettier . --write",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "prettier": "3.6.2"
+    }
+}
